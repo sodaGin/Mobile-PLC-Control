@@ -1,0 +1,22 @@
+{ 
+    "alr0": ":="webserverData".alr[0]:",
+    "alr1": ":="webserverData".alr[1]:",
+    "alr2": ":="webserverData".alr[2]:",
+    "alr3": ":="webserverData".alr[3]:",
+    "alr4": ":="webserverData".alr[4]:",
+    "alr5": ":="webserverData".alr[5]:",
+    "alr6": ":="webserverData".alr[6]:",
+    "alr7": ":="webserverData".alr[7]:",
+    "alr8": ":="webserverData".alr[8]:",
+    "alr9": ":="webserverData".alr[9]:",
+    "alr10": ":="webserverData".alr[10]:",
+    "alr11": ":="webserverData".alr[11]:",
+    "alr12": ":="webserverData".alr[12]:",
+    "alr13": ":="webserverData".alr[13]:",
+    "alr14": ":="webserverData".alr[14]:",
+    "alr15": ":="webserverData".alr[15]:",
+    "alr16": ":="webserverData".alr[16]:",
+    "alr17": ":="webserverData".alr[17]:",
+    "alr18": ":="webserverData".alr[18]:",
+    "alr19": ":="webserverData".alr[19]:"
+}

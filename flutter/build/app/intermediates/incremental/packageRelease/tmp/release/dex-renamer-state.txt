@@ -1,0 +1,4 @@
+#Sat Mar 11 14:07:13 CET 2023
+base.0=/home/flu/workspace/localControl/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

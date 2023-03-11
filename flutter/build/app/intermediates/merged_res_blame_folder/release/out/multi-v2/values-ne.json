@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/flu/workspace/localControl/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ne/values-ne.xml",
+            "map": [
+                {
+                    "source": "/home/flu/.gradle/caches/transforms-3/a247a5db53c48f102a58348de764e944/transformed/core-1.6.0/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
