@@ -21,15 +21,10 @@ I am happy to share the project.
 
 ## Screenshots
 
-![States](images/Screenshot_20230226-165722.png)
+<img src='images/Screenshot_20230226-165722.png' width='250'>  |  <img src='images/Screenshot_20230226-165846.png' width='250'> | 
+<img src='images/Screenshot_20230226-165940.png' width='250'>
 
-![Parameter](images/Screenshot_20230226-165846.png)
-
-![Functions](images/Screenshot_20230226-165901.png)
-
-![Alarms](images/Screenshot_20230311-135546.png)
-
-![IP-Address](images/Screenshot_20230226-165940.png)
+<img src='images/Screenshot_20230226-165901.png' width='250'>  |  <img src='images/Screenshot_20230311-135546.png' width='250'>
 
 ## Functional principle
 
